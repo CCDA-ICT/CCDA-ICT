@@ -63,9 +63,10 @@ A **climate-resilient, carbon-neutral Papua New Guinea**, where development and 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccda-png&show_icons=true&theme=vue-dark&hide_border=true" alt="CCDA GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccda-png&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CCDA-ICT&show_icons=true&theme=vue-dark&hide_border=true" alt="CCDA GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCDA-ICT&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
+
 
 ---
 
